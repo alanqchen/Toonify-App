@@ -1,0 +1,16 @@
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:asp="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        android:title="Category title">
+        <SeekBarPreference
+            android:key="seek_bar_key"
+            android:title="This is a title"
+            android:summary="This is the summary"
+            android:defaultValue="@integer/seek_bar_default"
+            android:max="@integer/seek_bar_max"
+            asp:min="@integer/seek_bar_min" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

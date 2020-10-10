@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Toonify</string>
+    <string name="chooseText">Choose An Option</string>
+    <string name="txtGallery">Photo From Gallery</string>
+    <string name="txtHeaderImage">Header Image</string>
+    <string name="txtPhoto">Take New Photo</string>
+    <string name="txtEdit">Edit Parameters</string>
+    <string name="txtSave">Save Image</string>
+    <string name="txtDescription">Image Preview</string>
+    <string name="menuHome">Home</string>
+    <string name="menuDarkMode">Dark Mode</string>
+    <string name="switchSaveOrig">Save Original New Photo</string>
+    <string name="txtSettings">Settings</string>
+    <string name="txtApply">Apply</string>
+    <string name="txtCancel">Cancel</string>
+    <string name="txtInfoBtn">Information</string>
+    <string name="txtSpinnerName">Filters</string>
+    <string-array name="filterType_array">
+        <item>Cartoon</item>
+        <item>Pencil Sketch (Color)</item>
+        <item>Pencil Sketch (B&amp;W)</item>
+        <item>Watercolor</item>
+        <item>Starry Night</item>
+        <item>Mosaic</item>
+        <item>Udnie</item>
+        <item>The Scream</item>
+        <item>Candy</item>
+        <item>Feathers</item>
+    </string-array>
+</resources>
